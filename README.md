@@ -34,6 +34,16 @@ Execute the code cells in sequential order, following the instructions provided.
 Explore the results, analysis, and interpretations in the notebooks.
 Modify and experiment with the code as needed to further enhance the project.
 
+## Author
+
+`Valentin UWAYO`
+
+`Data Analyst/Data Scientist`
+
+Let's connect on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwayo-valentin-a12563168/) 
+
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
 
