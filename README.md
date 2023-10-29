@@ -4,7 +4,7 @@ This repository contains a machine learning project focused on predicting custom
 ## Summary
 |     Jupyter Notebook                       | Published Article|    PowerBi Dashboard
 | -------------                  | -------------    |    -----------------
-|[Python Notebook](Classification_Telco_customer_churn.ipynb) | [Published Article on Linkedln](https://medium.com/@rasmowanyama/exploratory-data-analysis-of-the-funding-in-the-indian-start-up-ecosystem-2018-2021-7065618d9a93)               |[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODM4ODAwOWUtMDFiYi00OTE0LTg0MzQtMzM1OTdiY2I3NDlmIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9&embedImagePlaceholder=true)
+|[Python Notebook](Classification_Telco_customer_churn.ipynb) | [Published Article on Linkedln](https://www.linkedin.com/pulse/explonatory-data-analysis-india-start-up-ecosystem-funding-valentin-rm7hf)               |[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODM4ODAwOWUtMDFiYi00OTE0LTg0MzQtMzM1OTdiY2I3NDlmIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9&embedImagePlaceholder=true)
 
 
 ## Project Overview
