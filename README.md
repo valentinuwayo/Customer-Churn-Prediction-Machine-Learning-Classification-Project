@@ -42,7 +42,7 @@ Modify and experiment with the code as needed to further enhance the project.
 
 Let's connect on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwayo-valentin-a12563168/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-uwayo/) 
 
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
